@@ -1,1 +1,1 @@
-Hello, I am deployed through Jenkins - pipeline
+Hello, I am deployed through new pipeline
