@@ -1,1 +1,1 @@
-Hello, I am deployed through new pipeline
+<h1>welcome to pipeline setup</h1>
